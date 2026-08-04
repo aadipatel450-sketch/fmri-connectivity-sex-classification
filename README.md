@@ -23,6 +23,18 @@ Data is not included in this repository (see `.gitignore`); download it from the
 
 ## Figures
 ![Connectivity difference (male vs. female)](difference_map.png)
-![Top sex-discriminating connections](connectome_png)
+![Top sex-discriminating connections](connectome.png)
 
 ## Running it
+1. Install dependencies:
+```
+  pip install nilearn scikit-learn numpy pandas matplotlib jupyter
+```
+2. Download the dataset from the OpenNeuro link above and note its path.
+
+3. Open the notebook (`notebook.ipynb`) in Jupyter or PyCharm, set the
+   `dataset_path` variable at the top to your local dataset location, and
+   run the cells top to bottom.
+
+The notebook builds the connectivity features, trains and validates the
+classifier (cross-validation + permutation test), and generates the figures. 
