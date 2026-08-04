@@ -24,6 +24,8 @@ Data is not included in this repository (see `.gitignore`); download it from the
 ## Figures
 ![Connectivity difference (male vs. female)]<img width="491" height="412" alt="difference_map" src="https://github.com/user-attachments/assets/5e93a9f7-c1c4-475b-85a8-b455937ddece" />
 
+
+
 ![Top sex-discriminating connections]<img width="1095" height="525" alt="connectome" src="https://github.com/user-attachments/assets/3452bc3a-de8a-4358-99f4-88ba8bb8efb3" />
 
 
