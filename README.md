@@ -23,6 +23,6 @@ Data is not included in this repository (see `.gitignore`); download it from the
 
 ## Figures
 ![Connectivity difference (male vs. female)](difference_map.png)
-![Top sex-discriminating connections](connectome_png)
+![Top sex-discriminating connections](connectome.png)
 
 ## Running it
