@@ -22,7 +22,8 @@ Resting-state fMRI from an open OCD dataset on OpenNeuro: [add dataset link]
 Data is not included in this repository (see `.gitignore`); download it from the link above.
 
 ## Figures
-![Connectivity difference (male vs. female)]<img width="491" height="412" alt="difference_map" src="https://github.com/user-attachments/assets/5e93a9f7-c1c4-475b-85a8-b455937ddece" />
+![Connectivity difference (male vs. female)]<img width="491" height="412" alt="difference_map" src="https://github.com/user-attachments/assets/62ce301c-e63d-4232-93ac-1edecb583337" />
+
 
 
 
