@@ -18,11 +18,12 @@ fMRI functional connectivity, built and validated on an open OCD dataset.
 5. **Interpret** via SVM weights, mapped to functional networks and corrected for network size
 
 ## Data
-Resting-state fMRI from an open OCD dataset on OpenNeuro: [add dataset link]
+Resting-state fMRI from an open OCD dataset on OpenNeuro: https://openneuro.org/datasets/ds008110/versions/1.0.0
 Data is not included in this repository (see `.gitignore`); download it from the link above.
 
 ## Figures
-![Connectivity difference (male vs. female)]<img width="491" height="412" alt="difference_map" src="https://github.com/user-attachments/assets/62ce301c-e63d-4232-93ac-1edecb583337" />
+![Connectivity difference (male vs. female)]<img width="782" height="219" alt="Screenshot 2026-08-02 182119" src="https://github.com/user-attachments/assets/4888402c-fbb7-4e5e-afaa-ad04ad262061" />
+
 
 
 
