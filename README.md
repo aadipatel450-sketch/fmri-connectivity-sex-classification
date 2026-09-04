@@ -4,7 +4,7 @@ A machine-learning pipeline that predicts biological sex from resting-state
 fMRI functional connectivity, built and validated on an open OCD dataset.
 
 ## Result
-- **75% classification accuracy** — linear SVM, stratified 5-fold cross-validation (baseline ~51%)
+- **75.3% classification accuracy** — linear SVM, stratified 5-fold cross-validation (baseline ~51%)
 - **Statistically significant** by permutation test (p = 0.003, 1000 label shuffles)
 - Discriminative signal is **distributed brain-wide**, not localized — confirmed
   independently by network size-correction, a feature-count sweep, and connectome
